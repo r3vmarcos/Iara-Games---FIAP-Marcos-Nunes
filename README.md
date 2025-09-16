@@ -1,3 +1,5 @@
+Acese em https://r3vmarcos.github.io/Iara-Games---FIAP-Marcos-Nunes/[https://r3vmarcos.github.io/Iara-Games---FIAP-Marcos-Nunes/]
+
 Iara Games
 Este é o repositório do projeto Iara Games, uma plataforma de comercialização e distribuição de jogos focada em impulsionar talentos emergentes de desenvolvedoras de games brasileiras. O projeto tem como objetivo central criar um espaço dedicado exclusivamente a produções locais, fomentando a indústria nacional de jogos.
 
@@ -60,4 +62,5 @@ Para visualizar a página, basta abrir o arquivo index.html em qualquer navegado
 Nota: As imagens e os arquivos .js e reset.css não foram fornecidos no contexto, mas são referenciados no arquivo index.html. É necessário que esses arquivos existam para que a página seja renderizada corretamente.
 
 Contribuições
+
 Sinta-se à vontade para explorar o código.
